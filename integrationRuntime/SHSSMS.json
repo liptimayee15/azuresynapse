@@ -1,0 +1,7 @@
+{
+	"name": "SHSSMS",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "connect to onprem sql server"
+	}
+}

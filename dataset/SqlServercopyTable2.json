@@ -1,0 +1,13 @@
+{
+	"name": "SqlServercopyTable2",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SqlServerlinked",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
